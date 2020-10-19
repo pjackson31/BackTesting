@@ -1,0 +1,3 @@
+Using real historical time series data for the S&P 500, implemented a basic trend investment strategy backed by 42-day and 252-day trends using pandas and time series analytics. 
+Created a virtual portfolio with investment strategy on AAPL and various other tickers based on trend signals backed by graphical representation of signals, returns and risk. 
+Implemented a Stock Guesser using scikit learns various ML learning modules Adaline, Support Vector Machines, and Perceptrons
